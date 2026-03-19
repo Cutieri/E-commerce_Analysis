@@ -1,0 +1,39 @@
+Faturamento Total: 20,470,728.00
+Total de Pedidos: 113425
+Ticket Médio: 180,48
+
+TOP 5 Estados com mais faturamentos: SP-RJ-MG-RS-PR
+(Após esses estados temos uma queda consideravel no faturamento ~ 200k)
+
+TOP 5 Estados com mais Pedidos: SP-RJ-MG-RS-PR
+(Tendo uma queda consideravel após o 3 de 13k para 6k)
+
+Top 5 produtos com maior ticket médio: 
+pcs
+telefonia_fixa
+protateis_casa_forno_e_cafe
+agro_industria_e_comercio
+eletrodomesticos
+(diferença de quase 600k do 1 para o 2)
+
+Temos mais vendas entre mes 3 e 8
+(Final de ano temos uma queda grande PICO:1.600,00+ BASE: 800k-)
+
+Numero de clientes recorrentes: 9803
+Numero de clientes não recorrentes: 89638
+
+Taxa de recorrência: 9.86%
+
+Top 5 produtos com maior quantidade vendida:
+cama_mesa_banho
+beleza_saude
+esporte_lazer
+moveis_decoraçao
+informatica_acessorios
+
+Top 5 produtos com maior receita total:
+cama_mesa_banho
+beleza_saude
+informatica_acessorios
+moveis_decoraçao
+relogios_presentes
