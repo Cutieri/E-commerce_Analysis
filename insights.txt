@@ -1,39 +1,109 @@
-Faturamento Total: 20,470,728.00
-Total de Pedidos: 113425
-Ticket Médio: 180,48
+Faturamento Total: 16.008.872,12
+Total de Pedidos: 99441
+Ticket Médio: 160,99
 
 TOP 5 Estados com mais faturamentos: SP-RJ-MG-RS-PR
-(Após esses estados temos uma queda consideravel no faturamento ~ 200k)
+(Após o 3 estado (MG) temos uma queda de 1M em faturamento)
 
 TOP 5 Estados com mais Pedidos: SP-RJ-MG-RS-PR
-(Tendo uma queda consideravel após o 3 de 13k para 6k)
+(Tendo uma queda consideravel após o 3 estado - 6K a menos)
 
-Top 5 produtos com maior ticket médio: 
+TOP 5 Estados com maiores Tickets: PB-AC-RO-AP-AL
+
+
+VARIABILIDADE DO VALOR
+Variância: 49,262.13
+Desvio Padrão: 221.95
+Média: 160.99
+(Temos uma alta variabilidade com coeficiente de variação a 1.38)
+
+//
+
+Total de faturamento por preço de produtos: 13,591,643.70
+Total de faturamento por frete: 2,251,909.54
+
+Top 5 Produtos com maior frete
+cama_mesa_banho
+beleza_saude
+moveis_decoraçao
+esporte_lazer
+informatica_acessorios
+
+Top 5 produtos com maior faturamento
+beleza_saude
+relogios_presentes
+cama_mesa_banho
+esporte_lazer
+informatica_acessorios
+
+Top 5 produtos com maiores Tickets
 pcs
-telefonia_fixa
 protateis_casa_forno_e_cafe
-agro_industria_e_comercio
 eletrodomesticos
-(diferença de quase 600k do 1 para o 2)
+agro_industria_e_comercio
+instrumentos_musicais
 
-Temos mais vendas entre mes 3 e 8
-(Final de ano temos uma queda grande PICO:1.600,00+ BASE: 800k-)
+VARIABILIDADE
+Variância: 33,721.42
+Desvio Padrão: 183.63
+Média: 120.65
+(temos uma alta variabilidade, com o coeficiente de variação a 1.52)
 
-Numero de clientes recorrentes: 9803
-Numero de clientes não recorrentes: 89638
+//
 
-Taxa de recorrência: 9.86%
+Número de clientes fiéis: 2997
+Número de clientes não fiéis: 93099
 
-Top 5 produtos com maior quantidade vendida:
+Taxa de recorrência: 3.12%
+
+Taxa de churn: 96.88%
+
+//
+
+Top 5 Produtos com mais vendas
 cama_mesa_banho
 beleza_saude
 esporte_lazer
 moveis_decoraçao
 informatica_acessorios
 
-Top 5 produtos com maior receita total:
-cama_mesa_banho
+Top 5 Produtos com mais receita
 beleza_saude
-informatica_acessorios
-moveis_decoraçao
 relogios_presentes
+cama_mesa_banho
+esporte_lazer
+informatica_acessorios
+
+//
+
+Faturamento por Mês
+ano   mes
+2016  9           252.24
+      10       59,090.48
+      12           19.62
+2017  1       138,488.04
+      2       291,908.01
+      3       449,863.60
+      4       417,788.03
+      5       592,918.82
+      6       511,276.38
+      7       592,382.92
+      8       674,396.32
+      9       727,762.45
+      10      779,677.88
+      11    1,194,882.80
+      12      878,401.48
+2018  1     1,115,004.18
+      2       992,463.34
+      3     1,159,652.12
+      4     1,160,785.48
+      5     1,153,982.15
+      6     1,023,880.50
+      7     1,066,540.75
+      8     1,022,425.32
+      9         4,439.54
+      10          589.67
+
+
+Temos uma grande concentração de vendas entre os meses 2 e 8 - Tendo uma queda mt grande nos meses finais
+
