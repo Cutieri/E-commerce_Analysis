@@ -89,4 +89,4 @@ E-commerce_Analysis/
 ## 📬 Contato
 
 - GitHub: [https://github.com/Cutieri](https://github.com/Cutieri) 
-- LinkedIn: [https://github.com/Cutieri](https://github.com/Cutieri)
+- LinkedIn: [https://www.linkedin.com/in/guilherme-cutieri-42003036b/](https://www.linkedin.com/in/guilherme-cutieri-42003036b/)
