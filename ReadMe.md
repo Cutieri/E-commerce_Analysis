@@ -1,6 +1,6 @@
 # 📊 E-commerce Analysis  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)  
+![Python](https://img.shields.io/badge/Python-3.14.3-blue)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)  
