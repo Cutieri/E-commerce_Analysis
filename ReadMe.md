@@ -81,22 +81,12 @@ E-commerce_Analysis/
 │
 ├── data/
 ├── notebooks/
-├── images/
 └── README.md
 
 ---
 
-## 🚀 Próximos Passos
-
-- Modelos de previsão de vendas  
-- Segmentação de clientes (RFM)  
-- Análise de cohort  
-- Dashboard interativo (Power BI / Tableau)  
-- Sistema de recomendação  
-
----
 
 ## 📬 Contato
 
-- GitHub: https://github.com/Cutieri  
-- LinkedIn: https://www.linkedin.com/in/guilherme-cutieri-42003036b/  
+- GitHub: [https://github.com/Cutieri](https://github.com/Cutieri) 
+- LinkedIn: [https://github.com/Cutieri](https://github.com/Cutieri)
